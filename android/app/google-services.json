@@ -1,0 +1,124 @@
+{
+  "project_info": {
+    "project_number": "1064624920362",
+    "project_id": "dars66firestore",
+    "storage_bucket": "dars66firestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064624920362:android:0e37a383b3684e2b473053",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDR0Uur0WhNZhbP8aagd9kGDaYqVLwVjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064624920362:android:33c2f41db28ea9c6473053",
+        "android_client_info": {
+          "package_name": "com.example.fire_storage_68_lesson"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDR0Uur0WhNZhbP8aagd9kGDaYqVLwVjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064624920362:android:0744ace2b605a97c473053",
+        "android_client_info": {
+          "package_name": "com.example.firestore_66_lesson"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDR0Uur0WhNZhbP8aagd9kGDaYqVLwVjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064624920362:android:e801a2a6acbd9d20473053",
+        "android_client_info": {
+          "package_name": "com.example.lesson_71_push_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDR0Uur0WhNZhbP8aagd9kGDaYqVLwVjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064624920362:android:5e5fb7109d400bad473053",
+        "android_client_info": {
+          "package_name": "com.example.lisson_65_state_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDR0Uur0WhNZhbP8aagd9kGDaYqVLwVjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064624920362:android:d54b0ce5f62df3a9473053",
+        "android_client_info": {
+          "package_name": "com.example.notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDR0Uur0WhNZhbP8aagd9kGDaYqVLwVjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
